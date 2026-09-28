@@ -1,0 +1,8 @@
+__pycache__/
+.git/
+classification_images/
+dataset/
+styles/
+*.jpg
+*.jpeg
+*.png
